@@ -1,0 +1,10 @@
+https://www.ansible.com/integrations/infrastructure/vmware
+https://docs.ansible.com/ansible/latest/scenario_guides/vmware_scenarios/vmware_scenarios.html
+https://docs.ansible.com/ansible/2.6/vmware/scenario_clone_template.html
+https://www.ansible.com/integrations/infrastructure/vmware
+
+
+Ansible VM Module
+
+https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html#vmware
+
